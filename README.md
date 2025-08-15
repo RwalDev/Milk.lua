@@ -1,8 +1,4 @@
-Here’s the complete documentation you can drop into your repo as README.md. It covers every feature in the merged MilkUI, with usage for PC and mobile, all elements, modals, effects, settings, and persistence.
-
 # MilkUI — Full Documentation
-
-A modern Roblox UI library with a “Milk / EvilMilk” vibe:
 - Movable, resizable, edge-snapping window with Mac-style traffic lights
 - Tabs → Collapsible Sections → Elements
 - Blur-on-open, smooth tweens, hover + ripple FX, click SFX
@@ -10,22 +6,6 @@ A modern Roblox UI library with a “Milk / EvilMilk” vibe:
 - CenterTop status bar, Toast notifications, Tooltips
 - Settings persistence (memory/file/bridge) + window position/size persistence
 - Mobile-only floating toggle button (FAB)
-
-### Contents
-- Install
-- Quick start
-- Window options (MilkUI.new)
-- Window API
-- Tabs, Sections, Elements
-- Modals and overlays
-- Status, Toasts, Tooltips, SFX
-- Settings persistence and server bridge
-- Mobile features
-- Customization and styling
-- Performance tips
-- Troubleshooting
-- Compliance notes
-- Changelog
 
 ### Quick start
 ```lua
